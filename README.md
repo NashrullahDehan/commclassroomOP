@@ -1,5 +1,8 @@
-# Community Classroom is OP
-
-- Kunal Kushwaha says that this community is amazing.
-- More power to kunal. love the work which your are doing for the community.
-- Anirudh Sharma finds the Community Classroom initiative really great!
+## Community Classroom is OP
+# Working with remote reopsitories
+- central repository(upstream repository)
+- Forking : fork🍴
+- Cloning : git clone url
+- Edit    : fix bugs, add additional functionalities or optimize code
+- push    : push updated local copy into your forked repository
+- pull    : finally from github account ask for a pull request to merge your code
